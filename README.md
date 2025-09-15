@@ -1,0 +1,2 @@
+# xglink
+static page
